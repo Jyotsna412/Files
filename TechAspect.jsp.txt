@@ -1,0 +1,47 @@
+import java.io.*;
+import java.io.Ioexception;
+public class MSA{
+
+public static void main(Strings
+
+<%
+<html>
+<head>
+<title>Management System Application</title>
+</head>
+
+<body>
+<h1><center>Management System Applications</center></h1>
+<form>
+<h3>Student Details</h3>
+Student Name
+<input type= "text" name = "Student name"><br>
+Age
+<input type=  "text"  name= "Age"></input>
+<br>
+Branch
+<input type=  "text"  name= "Branch">
+<br>
+Year
+<input type=  "text"  name= "Year">
+<br>
+Semester
+<input type=  "text"  name= "Semester">
+<br>
+Previous Year Score(%)
+<input type=  "text"  name= "Previous Semester Score">
+<br>
+<center><input type ="submit" value ="Submit"></center>
+</input>
+</form>
+<li><p><b>Last  Name:</b>
+            <%= request.getParameter("last_name")%>
+         </p></li>
+</body>
+</html>
+
+%>
+
+
+
+}
